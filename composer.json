@@ -3,6 +3,7 @@
     "name": "ostrik2/database",
     "description": "A simple database class",
     "type": "library",
+		"license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
             "ostrik2\\Database\\": "src/"
