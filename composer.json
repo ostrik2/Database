@@ -1,0 +1,12 @@
+
+{
+    "name": "ostrik2/database",
+    "description": "A simple database class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ostrik2\\Database\\": "src/"
+        }
+    },
+    "require": {}
+}
